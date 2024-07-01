@@ -227,3 +227,6 @@ nav .container {
     transform: rotate(360deg);
   }
 }
+.navbar{
+  top: 25%;
+}
